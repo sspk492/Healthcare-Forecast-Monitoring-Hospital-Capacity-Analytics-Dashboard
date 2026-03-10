@@ -45,22 +45,15 @@ Data Visualization
 
 ---
 
-# Project Workflow
+## Project Workflow
 
-The project follows a full analytics pipeline:
-Data Extraction
-↓
-Data Cleaning & Feature Engineering
-↓
-Exploratory Data Analysis
-↓
-Forecast Model Development
-↓
-Forecast Evaluation
-↓
-Forecast Monitoring Dataset
-↓
-Interactive Tableau Dashboards
+→ Data Extraction  
+→ Data Cleaning & Feature Engineering  
+→ Exploratory Data Analysis  
+→ Forecast Model Development  
+→ Forecast Evaluation  
+→ Forecast Monitoring Dataset  
+→ Interactive Tableau Dashboards
 
 
 ---
@@ -68,8 +61,6 @@ Interactive Tableau Dashboards
 # Dashboards
 
 ## Executive Healthcare Overview
-
-![Executive Dashboard](dashboard_images/executive_dashboard.png)
 
 Key metrics monitored:
 
@@ -82,8 +73,6 @@ Key metrics monitored:
 ---
 
 ## Forecast Monitoring
-
-![Forecast Monitoring](images/forecast_monitoring.png)
 
 Forecast monitoring tracks:
 
@@ -100,8 +89,6 @@ Model Performance:
 ---
 
 ## Demographic Insights
-
-![Demographic Insights](dashboard_images/demographic_insights.png)
 
 Demographic analysis reveals:
 
