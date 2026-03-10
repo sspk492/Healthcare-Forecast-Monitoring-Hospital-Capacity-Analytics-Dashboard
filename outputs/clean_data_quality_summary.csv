@@ -1,0 +1,2 @@
+final_row_count,final_column_count,min_date,max_date,unique_states,beds_used_gt_capacity_count,icu_occ_gt_capacity_count,missing_total_covid_admissions,missing_bed_occupancy_rate_calc,missing_icu_utilization_rate_calc
+81335,39,2020-01-01,2024-04-20,54,0,6,0,352,7485
